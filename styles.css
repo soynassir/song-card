@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
 }
-/**/
+
 body {
     background-color: rgb(230, 229, 229);
     display: flex;
